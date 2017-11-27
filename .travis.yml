@@ -6,4 +6,4 @@ language: generic
 
 script:
   - . "${TRAVIS_BUILD_DIR}/script.sh"
-  
+  - ./script.sh
