@@ -1,0 +1,9 @@
+dist: trusty
+
+sudo: required
+
+language: generic
+
+script:
+  - . "${TRAVIS_BUILD_DIR}/script.sh"
+  
