@@ -1,1 +1,1 @@
-exit 1
+./script_nested.sh
